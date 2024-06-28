@@ -1,0 +1,13 @@
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:fontFamily">@font/jost_regular</item>
+    </style>
+
+    <style name="AppTheme.Medium">
+        <item name="android:fontFamily">@font/jost_medium</item>
+    </style>
+
+    <style name="AppTheme.Bold">
+        <item name="android:fontFamily">@font/jost_bold</item>
+    </style>
+</resources>
